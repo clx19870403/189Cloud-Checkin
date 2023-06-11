@@ -33,7 +33,7 @@ def pushtg(data):
 # 【BOTAPI】格式为123456:abcdefghi
 # 【TGID】格式为123456（人）或者-100123456（群组/频道）
 
-if (username == "" or password == ""):
+if (username == "18108838686" or password == "Clx4326675"):
     username = input("账号：")
     password = input("密码：")
 
